@@ -4,6 +4,6 @@
     "enterpriseTrialUrl": "https://www.ppm.no/flexgui4-Home/Index/trial",
     "buildInPluginLogin": "true",
     "expertUrl": "https://expertsite.ppm.no",
-    "forceAuth": "false",
+    "forceAuth": "true",
     "testVersion":  null
 }
